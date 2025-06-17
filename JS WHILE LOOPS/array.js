@@ -22,6 +22,10 @@ colors.pop()
 colors.pop()
 console.log(colors)
 
+console.log(colors.length);
+
+
 // Assignment
 // other array methods
 // for loop 
+
